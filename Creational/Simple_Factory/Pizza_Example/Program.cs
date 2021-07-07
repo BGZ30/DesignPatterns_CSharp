@@ -1,12 +1,20 @@
 ﻿using System;
+using Pizza_Example.Pizzas;
 
 namespace Pizza_Example
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SimplePizzaFactory factory = new SimplePizzaFactory();
+            PizzaStore store = new PizzaStore(factory);
+
+            Pizza pizza = store.orderPizza("cheese");
+            Console.WriteLine("We ordered a " + pizza.Name);
+
+            pizza = store.orderPizza("veggie");
+            Console.WriteLine("We ordered a " + pizza.Name);
         }
     }
 }
