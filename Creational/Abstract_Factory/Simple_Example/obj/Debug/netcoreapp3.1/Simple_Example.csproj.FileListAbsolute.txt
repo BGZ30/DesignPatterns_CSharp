@@ -1,0 +1,11 @@
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\bin\Debug\netcoreapp3.1\Simple_Example.exe
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\bin\Debug\netcoreapp3.1\Simple_Example.deps.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\bin\Debug\netcoreapp3.1\Simple_Example.runtimeconfig.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\bin\Debug\netcoreapp3.1\Simple_Example.runtimeconfig.dev.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\bin\Debug\netcoreapp3.1\Simple_Example.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\bin\Debug\netcoreapp3.1\Simple_Example.pdb
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\obj\Debug\netcoreapp3.1\Simple_Example.csprojAssemblyReference.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\obj\Debug\netcoreapp3.1\Simple_Example.AssemblyInfoInputs.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\obj\Debug\netcoreapp3.1\Simple_Example.AssemblyInfo.cs
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\obj\Debug\netcoreapp3.1\Simple_Example.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Abstract_Factory\Simple_Example\obj\Debug\netcoreapp3.1\Simple_Example.pdb
