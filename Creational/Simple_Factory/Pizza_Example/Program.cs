@@ -12,8 +12,11 @@ namespace Pizza_Example
 
             Pizza pizza = store.orderPizza("cheese");
             Console.WriteLine("We ordered a " + pizza.Name);
-
+        
             pizza = store.orderPizza("veggie");
+            Console.WriteLine("We ordered a " + pizza.Name);
+
+            pizza = store.orderPizza("clam");
             Console.WriteLine("We ordered a " + pizza.Name);
         }
     }

@@ -1,3 +1,4 @@
+using System;
 using Pizza_Example.Pizzas;
 
 namespace Pizza_Example{
@@ -17,6 +18,8 @@ namespace Pizza_Example{
             pizza.bake();
             pizza.cut();
             pizza.box();
+            
+            Console.WriteLine(pizza.ToString());
 
             return pizza;
         }
