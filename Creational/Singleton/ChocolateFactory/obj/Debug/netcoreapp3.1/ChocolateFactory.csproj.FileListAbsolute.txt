@@ -1,0 +1,11 @@
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\obj\Debug\netcoreapp3.1\ChocolateFactory.csprojAssemblyReference.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\obj\Debug\netcoreapp3.1\ChocolateFactory.AssemblyInfoInputs.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\obj\Debug\netcoreapp3.1\ChocolateFactory.AssemblyInfo.cs
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\bin\Debug\netcoreapp3.1\ChocolateFactory.exe
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\bin\Debug\netcoreapp3.1\ChocolateFactory.deps.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\bin\Debug\netcoreapp3.1\ChocolateFactory.runtimeconfig.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\bin\Debug\netcoreapp3.1\ChocolateFactory.runtimeconfig.dev.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\bin\Debug\netcoreapp3.1\ChocolateFactory.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\bin\Debug\netcoreapp3.1\ChocolateFactory.pdb
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\obj\Debug\netcoreapp3.1\ChocolateFactory.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\ChocolateFactory\obj\Debug\netcoreapp3.1\ChocolateFactory.pdb
