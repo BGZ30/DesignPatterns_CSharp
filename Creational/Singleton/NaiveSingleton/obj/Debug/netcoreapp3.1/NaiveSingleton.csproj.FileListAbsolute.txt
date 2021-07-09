@@ -1,0 +1,11 @@
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\obj\Debug\netcoreapp3.1\NaiveSingleton.csprojAssemblyReference.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\obj\Debug\netcoreapp3.1\NaiveSingleton.AssemblyInfoInputs.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\obj\Debug\netcoreapp3.1\NaiveSingleton.AssemblyInfo.cs
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\bin\Debug\netcoreapp3.1\NaiveSingleton.exe
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\bin\Debug\netcoreapp3.1\NaiveSingleton.deps.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\bin\Debug\netcoreapp3.1\NaiveSingleton.runtimeconfig.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\bin\Debug\netcoreapp3.1\NaiveSingleton.runtimeconfig.dev.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\bin\Debug\netcoreapp3.1\NaiveSingleton.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\bin\Debug\netcoreapp3.1\NaiveSingleton.pdb
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\obj\Debug\netcoreapp3.1\NaiveSingleton.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\NaiveSingleton\obj\Debug\netcoreapp3.1\NaiveSingleton.pdb
