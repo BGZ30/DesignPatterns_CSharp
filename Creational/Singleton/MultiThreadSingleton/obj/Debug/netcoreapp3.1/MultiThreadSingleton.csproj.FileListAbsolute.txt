@@ -1,0 +1,11 @@
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\obj\Debug\netcoreapp3.1\MultiThreadSingleton.csprojAssemblyReference.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\obj\Debug\netcoreapp3.1\MultiThreadSingleton.AssemblyInfoInputs.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\obj\Debug\netcoreapp3.1\MultiThreadSingleton.AssemblyInfo.cs
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\bin\Debug\netcoreapp3.1\MultiThreadSingleton.exe
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\bin\Debug\netcoreapp3.1\MultiThreadSingleton.deps.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\bin\Debug\netcoreapp3.1\MultiThreadSingleton.runtimeconfig.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\bin\Debug\netcoreapp3.1\MultiThreadSingleton.runtimeconfig.dev.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\bin\Debug\netcoreapp3.1\MultiThreadSingleton.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\bin\Debug\netcoreapp3.1\MultiThreadSingleton.pdb
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\obj\Debug\netcoreapp3.1\MultiThreadSingleton.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Singleton\MultiThreadSingleton\obj\Debug\netcoreapp3.1\MultiThreadSingleton.pdb
