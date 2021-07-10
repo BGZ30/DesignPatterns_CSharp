@@ -1,0 +1,11 @@
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\obj\Debug\netcoreapp3.1\NaiveBuilderExample.csprojAssemblyReference.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\obj\Debug\netcoreapp3.1\NaiveBuilderExample.AssemblyInfoInputs.cache
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\obj\Debug\netcoreapp3.1\NaiveBuilderExample.AssemblyInfo.cs
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\bin\Debug\netcoreapp3.1\NaiveBuilderExample.exe
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\bin\Debug\netcoreapp3.1\NaiveBuilderExample.deps.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\bin\Debug\netcoreapp3.1\NaiveBuilderExample.runtimeconfig.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\bin\Debug\netcoreapp3.1\NaiveBuilderExample.runtimeconfig.dev.json
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\bin\Debug\netcoreapp3.1\NaiveBuilderExample.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\bin\Debug\netcoreapp3.1\NaiveBuilderExample.pdb
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\obj\Debug\netcoreapp3.1\NaiveBuilderExample.dll
+D:\CSaharp\GitRepo\DesignPatterns_CSharp\Creational\Builder\NaiveBuilderExample\obj\Debug\netcoreapp3.1\NaiveBuilderExample.pdb
